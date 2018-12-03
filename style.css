@@ -13,7 +13,7 @@
 
 .sub_header
 {
-	font-family: "Palatino", sans-serif;
+	font-family: "Palatino	", sans-serif;
 	font-size: 50px;
 	color: rgb(245, 245, 245);
 }
@@ -32,6 +32,6 @@ header
 	background-position: center;
 	padding-top: 150px;
 	padding-left: 50px;
-	padding-bottom: 150px;
+	padding-bottom: 200px;
 	padding-right: 50px;
 }
