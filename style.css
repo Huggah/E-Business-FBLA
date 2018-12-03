@@ -18,6 +18,13 @@ h2
 	color: rgb(245, 245, 245);
 }
 
+h5
+{
+	font-family: "Montserrat", sans-serif, underline;
+	font-size: 25 px;
+	color: rgb(250, 230, 130);
+}
+
 header
 {
 	background-image: url(background.jpg);
