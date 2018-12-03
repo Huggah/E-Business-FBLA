@@ -6,7 +6,7 @@
 
 .top_header
 {
-	font-family: "Roboto", sans-serif;
+	font-family: "Montserrat", sans-serif;
 	font-size: 75px;
 	color: rgb(255, 255, 255);
 }
@@ -19,13 +19,6 @@
 }
 
 .sub_sub_header
-{
-	font-family: "Roboto", sans-serif, underline;
-	font-size: 25px;
-	color: rgb(250, 230, 130);
-}
-
-h6
 {
 	font-family: "Montserrat", sans-serif, underline;
 	font-size: 25px;
