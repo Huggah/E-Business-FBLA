@@ -4,31 +4,31 @@
 	padding: 0;
 }
 
-h1
+.top_header
 {
-	font-family: "Montserrat", sans-serif;
+	font-family: "Roboto", sans-serif;
 	font-size: 75px;
 	color: rgb(255, 255, 255);
 }
 
-h2
+.sub_header
 {
 	font-family: "Montserrat", sans-serif, underline;
 	font-size: 50px;
 	color: rgb(245, 245, 245);
 }
 
-h5
+.sub_sub_header
 {
 	font-family: "Roboto", sans-serif, underline;
-	font-size: 25 px;
+	font-size: 25px;
 	color: rgb(250, 230, 130);
 }
 
 h6
 {
-	font_family: "Montserrat", sans-serif, underline;
-	font-size: 25 px;
+	font-family: "Montserrat", sans-serif, underline;
+	font-size: 25px;
 	color: rgb(250, 230, 130);
 }
 
