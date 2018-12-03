@@ -20,7 +20,14 @@ h2
 
 h5
 {
-	font-family: "Montserrat", sans-serif, underline;
+	font-family: "Roboto", sans-serif, underline;
+	font-size: 25 px;
+	color: rgb(250, 230, 130);
+}
+
+h6
+{
+	font_family: "Montserrat", sans-serif, underline;
 	font-size: 25 px;
 	color: rgb(250, 230, 130);
 }
